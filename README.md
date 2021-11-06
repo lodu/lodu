@@ -3,6 +3,7 @@
 - Currently getting my masters degree
 - I like all things CI/CD and Cloud
 - Avid Python & React user
+- Only use GH for collaboration (mainly use private gitea)
 - Learning some other techniques and langauges (TS mostly at the time of writing)
 - Yes [lodu.dev](https://lodu.dev) does not work, still working on it (or so i say)
 
