@@ -4,8 +4,10 @@
 - I like all things CI/CD and Cloud
 - Avid Python & React user
 - Only use GH for collaboration (mainly use private gitea)
-- Learning some other techniques and langauges (TS mostly at the time of writing)
+- Learning some other techniques and languages (TS and Rust mostly at time of writing)
+<!--
 - Yes [lodu.dev](https://lodu.dev) does not work, still working on it (or so i say)
+-->
 
 <!--
 **lodu/lodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
